@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: aquamarine;
+}
+.title{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    width: 636px;
+    height: 116px;
+    margin: 20px auto;
+    color: #ffffff;
+    font-size: 64px;
+    font-family: 700;
+    text-align: justify;
+    background-color: #311313;
+    text-align: center;
+}
+.box{
+    padding: 45px 52px;
+    width: 1000px;
+
+    margin: 0 auto;
+    box-sizing: border-box;
+border: 10px solid rgb(255, 6, 6);
+background: rgb(0, 0, 0);
+}
+.text{
+font-size: 24px;
+    color: black;
+}
+.bola{
+    padding: 20px;
+    background-color: aquamarine;
+    width: 850px;
+    color: black;
+    margin-bottom:20px ;
+}
+.bola2{
+    padding: 20px;
+    background-color: aquamarine;
+    width: 850px;
+    color: black;
+}
